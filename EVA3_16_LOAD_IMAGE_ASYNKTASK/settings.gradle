@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_16_LOAD_IMAGE_ASYNKTASK"
+include ':app'

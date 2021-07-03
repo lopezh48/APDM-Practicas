@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_11_LOAD_POST"
+include ':app'

@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_DETENER_HILOS_1"
+include ':app'

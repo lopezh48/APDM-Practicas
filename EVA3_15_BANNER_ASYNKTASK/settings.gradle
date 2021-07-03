@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_15_BANNER_ASYNKTASK"
+include ':app'
